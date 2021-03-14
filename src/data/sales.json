@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "Title":"Instock",
+        "Percentage":"87.90%",
+        "Type":"88.00% LW"
+     },
+     {
+        "id":2,
+        "Title":"Topstock",
+        "Percentage":"88.40%",
+        "Type":"88.70% LW"
+     },
+     {
+        "id":3,
+        "Title":"DOH",
+        "Percentage":"47.00%",
+        "Type":"43.70% LW"
+     },
+     {
+        "id":4,
+        "Title":"Low Sales",
+        "Percentage":"11.60%",
+        "Type":"12.20% LW"
+     },
+     {
+        "id":5,
+        "Title":"Sales Growth",
+        "Percentage":"98.10%",
+        "Type":"96.30% MTD ly"
+     },
+     {
+        "id":6,
+        "Title":"OTF",
+        "Percentage":"88%",
+        "Type":"86% LW"
+     },
+     {
+        "id":7,
+        "Title":"Liability",
+        "Percentage":"81.40%",
+        "Type":"83% LW"
+     },
+     {
+        "id":8,
+        "Title":"LiabilityQty",
+        "Percentage":"85.60%",
+        "Type":"88% LW"
+     }
+]
